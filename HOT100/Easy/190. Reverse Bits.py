@@ -28,4 +28,4 @@ class Solution:
 
 if __name__ == '__main__':
     s = Solution()
-    print(s.reverseBits(0b00000010100101000001111010011100))
+    print(s.reverseBits1(0b00000010100101000001111010011100))
